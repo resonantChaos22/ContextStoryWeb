@@ -9,7 +9,7 @@ export default () => {
             <TestGreet />
             <br />
             <Link to='/'>
-                <button className="ui massive grey button">Back</button>
+                <button className="ui massive grey button">Back and Forth(kafi sahi gaana hai)</button>
             </Link>
         </div>
     );
